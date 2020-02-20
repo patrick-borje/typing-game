@@ -11,7 +11,7 @@ function App() {
     wordCount,
     isTrue,
     textBoxRef
-  } = useWordGame(20);
+  } = useWordGame();
   return (
     <div>
       <h1>How Fast Can You Type?</h1>
