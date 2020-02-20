@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/typing-game/static/css/main.179785ef.chunk.css",
-    "main.js": "/typing-game/static/js/main.fd5887d8.chunk.js",
-    "main.js.map": "/typing-game/static/js/main.fd5887d8.chunk.js.map",
+    "main.css": "/typing-game/static/css/main.7d7c1e86.chunk.css",
+    "main.js": "/typing-game/static/js/main.da14caee.chunk.js",
+    "main.js.map": "/typing-game/static/js/main.da14caee.chunk.js.map",
     "runtime-main.js": "/typing-game/static/js/runtime-main.3059ad6c.js",
     "runtime-main.js.map": "/typing-game/static/js/runtime-main.3059ad6c.js.map",
     "static/js/2.aced891d.chunk.js": "/typing-game/static/js/2.aced891d.chunk.js",
     "static/js/2.aced891d.chunk.js.map": "/typing-game/static/js/2.aced891d.chunk.js.map",
     "index.html": "/typing-game/index.html",
-    "precache-manifest.b94d77e72485aa3a0800d011b6bce88a.js": "/typing-game/precache-manifest.b94d77e72485aa3a0800d011b6bce88a.js",
+    "precache-manifest.33cc7b524dfedc32b1c927e35ea6b2d1.js": "/typing-game/precache-manifest.33cc7b524dfedc32b1c927e35ea6b2d1.js",
     "service-worker.js": "/typing-game/service-worker.js",
-    "static/css/main.179785ef.chunk.css.map": "/typing-game/static/css/main.179785ef.chunk.css.map",
+    "static/css/main.7d7c1e86.chunk.css.map": "/typing-game/static/css/main.7d7c1e86.chunk.css.map",
     "static/js/2.aced891d.chunk.js.LICENSE.txt": "/typing-game/static/js/2.aced891d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3059ad6c.js",
     "static/js/2.aced891d.chunk.js",
-    "static/css/main.179785ef.chunk.css",
-    "static/js/main.fd5887d8.chunk.js"
+    "static/css/main.7d7c1e86.chunk.css",
+    "static/js/main.da14caee.chunk.js"
   ]
 }
