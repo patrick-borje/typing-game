@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9aab13d0b328353ebcabbce42f8826bc",
+    "revision": "5e89a7199abeaaa9a9b5c2ebd7ba48a9",
     "url": "/typing-game/index.html"
   },
   {
-    "revision": "549339831f3184ecd7e2",
+    "revision": "4b04f05ea09ed2493213",
     "url": "/typing-game/static/css/main.7d7c1e86.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/typing-game/static/js/2.aced891d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "549339831f3184ecd7e2",
-    "url": "/typing-game/static/js/main.da14caee.chunk.js"
+    "revision": "4b04f05ea09ed2493213",
+    "url": "/typing-game/static/js/main.3b4879f8.chunk.js"
   },
   {
     "revision": "0287b35be4d7742b7add",

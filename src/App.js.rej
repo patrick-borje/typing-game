@@ -1,0 +1,10 @@
+diff a/src/App.js b/src/App.js	(rejected hunks)
+@@ -11,7 +11,7 @@
+     wordCount,
+     isTrue,
+     textBoxRef
+-  } = useWordGame();
++  } = useWordGame(15);
+   return (
+     <div>
+       <h1>How Fast Can You Type?</h1>
